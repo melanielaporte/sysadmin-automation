@@ -1,4 +1,4 @@
-# Sysadmin Automation
+# SysAdmin Automation
 Automates key system administration tasks on Linux. Scripts provision users, deploy a small service, and collect system logs. Demonstrates infrastructure and scripting skills for real-world systems.
 
 ## Project Goal
