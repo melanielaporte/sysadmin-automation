@@ -37,4 +37,5 @@ Without setting up a virtual machine (VM)
 5. Run it: bash scripts/main.sh
    
 ## Demo
-Coming soon — screenshots and logs will be added once the system is running.
+![sda](https://github.com/user-attachments/assets/2e3bd19b-84a8-441a-acba-062591e73a06)
+
