@@ -36,6 +36,3 @@ Without setting up a virtual machine (VM)
 4. Make the scripts executable: chmod +x scripts/*.sh
 5. Run it: bash scripts/main.sh
    
-## Demo
-![sda](https://github.com/user-attachments/assets/2e3bd19b-84a8-441a-acba-062591e73a06)
-
